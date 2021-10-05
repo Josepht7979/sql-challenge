@@ -1,7 +1,4 @@
-
-
 --EmployeeSQL
-
 
 -- Create Table named Titles
 CREATE TABLE titles(
